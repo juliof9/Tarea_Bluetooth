@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-53:12
+INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-53:12
+INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-53:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\519171a1f3474ad89b95588009d9f805\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\967cd52fd1f2e54cda8ae48175434fa1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\1abc67240160e6d1e246bc5329acbf7d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\ab52205a37fc271e2db213bfde606db7\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\7319e329104724f89a9ce61b31773725\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\1f612eb60f445dc955d88e23be7cd445\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\0dd3a434c92c18fe7ac7aeb3318bf501\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\6c87e17586c95821512d01e72c614485\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\8f6aa8346486c5e02552854e5a395b43\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\5a03a926b2c74af5720a978c2b320158\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\fa7bb9966a6da675b42483e7ec1ae348\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\a4ba6d016e15ee54c7385c3263888378\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\1e609dab223aaa5eb7a69bd63e84752f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\73cb6b71c9f2a2020af2da7511498d6b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\4d02ac7839e9f2d1ab3680dc7dd3a07c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\54639962fb88b11260511670f7ec16d5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\958bb4925a427ae0afbe52a9d45a2d9f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\9501d78ed1290cf3d5f782343fd32768\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\b75195c576dba6a76eb61dd23b1c6813\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\2125b31644cf154b05f129b7250f79e8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\9a267032192ef71003b4a4d8d11da126\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\3ae636d69abab102165401e8827d642e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\f89a917173d9614100f94247465cfe91\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\f01a898e37cd549a62a0a4875627829f\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\6fe732ee13685f19f019388641df2198\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\4a9b46ddece3a849f3bc58478bee8452\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\c66b7ea3e54ac8d8544e5272fbd6bc74\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\5b6d5ba2bc49fd23d09cce5ed3303bc8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-53:12
+INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-53:12
+	package
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:19:5-48
+	android:versionName
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:22:5-30
+		INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:20:5-63
+	android:versionCode
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:21:5-28
+		INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:26:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:27:22-65
+application
+ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:29:5-51:19
+	android:label
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:33:9-40
+activity#com.example.mundo.UI.activities.MainActivity
+ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:38:13-45
+	android:configChanges
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:36:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.mundo.adapter.bluetoothAdapter
+ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:45:9-49:63
+	android:label
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:48:13-50
+	android:configChanges
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:47:13-63
+	android:theme
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:49:13-61
+	android:name
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml:46:13-70
+uses-sdk
+INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\519171a1f3474ad89b95588009d9f805\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\519171a1f3474ad89b95588009d9f805\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\967cd52fd1f2e54cda8ae48175434fa1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\967cd52fd1f2e54cda8ae48175434fa1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\1abc67240160e6d1e246bc5329acbf7d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\1abc67240160e6d1e246bc5329acbf7d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\ab52205a37fc271e2db213bfde606db7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\ab52205a37fc271e2db213bfde606db7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\7319e329104724f89a9ce61b31773725\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\7319e329104724f89a9ce61b31773725\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\1f612eb60f445dc955d88e23be7cd445\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\1f612eb60f445dc955d88e23be7cd445\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\0dd3a434c92c18fe7ac7aeb3318bf501\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\0dd3a434c92c18fe7ac7aeb3318bf501\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\6c87e17586c95821512d01e72c614485\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\6c87e17586c95821512d01e72c614485\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\8f6aa8346486c5e02552854e5a395b43\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\8f6aa8346486c5e02552854e5a395b43\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\5a03a926b2c74af5720a978c2b320158\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\5a03a926b2c74af5720a978c2b320158\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\fa7bb9966a6da675b42483e7ec1ae348\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\fa7bb9966a6da675b42483e7ec1ae348\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\a4ba6d016e15ee54c7385c3263888378\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\a4ba6d016e15ee54c7385c3263888378\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\1e609dab223aaa5eb7a69bd63e84752f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\1e609dab223aaa5eb7a69bd63e84752f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\73cb6b71c9f2a2020af2da7511498d6b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\73cb6b71c9f2a2020af2da7511498d6b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\4d02ac7839e9f2d1ab3680dc7dd3a07c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\4d02ac7839e9f2d1ab3680dc7dd3a07c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\54639962fb88b11260511670f7ec16d5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\54639962fb88b11260511670f7ec16d5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\958bb4925a427ae0afbe52a9d45a2d9f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\958bb4925a427ae0afbe52a9d45a2d9f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\9501d78ed1290cf3d5f782343fd32768\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\9501d78ed1290cf3d5f782343fd32768\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\b75195c576dba6a76eb61dd23b1c6813\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\b75195c576dba6a76eb61dd23b1c6813\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\2125b31644cf154b05f129b7250f79e8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\2125b31644cf154b05f129b7250f79e8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\9a267032192ef71003b4a4d8d11da126\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\9a267032192ef71003b4a4d8d11da126\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\3ae636d69abab102165401e8827d642e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\3ae636d69abab102165401e8827d642e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\f89a917173d9614100f94247465cfe91\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\f89a917173d9614100f94247465cfe91\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\f01a898e37cd549a62a0a4875627829f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\f01a898e37cd549a62a0a4875627829f\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\6fe732ee13685f19f019388641df2198\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\6fe732ee13685f19f019388641df2198\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\4a9b46ddece3a849f3bc58478bee8452\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\4a9b46ddece3a849f3bc58478bee8452\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\c66b7ea3e54ac8d8544e5272fbd6bc74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\c66b7ea3e54ac8d8544e5272fbd6bc74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\5b6d5ba2bc49fd23d09cce5ed3303bc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Cristian\.gradle\caches\transforms-2\files-2.1\5b6d5ba2bc49fd23d09cce5ed3303bc8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Cristian\AndroidStudioProjects\android-BluetoothChat\Application\src\main\AndroidManifest.xml
